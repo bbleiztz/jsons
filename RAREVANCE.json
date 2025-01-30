@@ -1,0 +1,22 @@
+{
+  "asset": "RAREVANCE",
+  "name": "RAREVANCE",
+  "pgpsig": "bbleiztz",
+  "description": "",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/bbleiztz/images/refs/heads/main/RAREJDVANCE48.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/bbleiztz/images/refs/heads/main/RAREVANCE.png"
+    }
+  ],
+  "social": [
+    {
+      "type": "twitter",
+      "data": "https://x.com/bbleiztz"
+}
+  ]
+}
