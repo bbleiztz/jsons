@@ -1,0 +1,23 @@
+{
+  "asset": "NORARE.PEPE",
+  "name": "NORARE.PEPE",
+  "pgpsig": "bbleiztz",
+  "description": "",
+  "images": [
+    {
+      "type": "icon",
+      "data": "https://raw.githubusercontent.com/bbleiztz/images/refs/heads/main/norare.pepe_48.png"
+    },
+    {
+      "type": "large",
+      "data": "https://raw.githubusercontent.com/bbleiztz/images/refs/heads/main/norare.pepe_big.png"
+    }
+  ],
+  "social": [
+    {
+      "type": "twitter",
+      "data": "https://x.com/bbleiztz"
+}
+  ]
+}
+
