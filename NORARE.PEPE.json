@@ -1,8 +1,8 @@
 {
   "asset": "NORARE.PEPE",
-  "name": "NORARE.PEPE",
+  "name": "No Rare Nakamoto",
   "pgpsig": "bbleiztz",
-  "description": "",
+  "description": "No Rare Nakamoto",
   "images": [
     {
       "type": "icon",
@@ -10,6 +10,7 @@
     },
     {
       "type": "large",
+      "name": "No Rare Nakamoto",
       "data": "https://raw.githubusercontent.com/bbleiztz/images/refs/heads/main/norare.pepe_big.png"
     }
   ],
